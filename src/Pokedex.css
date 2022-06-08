@@ -1,0 +1,9 @@
+.Pokedex {
+  width: 975px;
+  margin: 0 auto;
+}
+
+.Pokedex-title {
+  text-align: center;
+  color: gray;
+}
